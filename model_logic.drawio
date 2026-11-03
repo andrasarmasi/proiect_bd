@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="Y0e9fvyYXHNDATrUl-lM">
-    <mxGraphModel dx="2146" dy="2421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,7 +544,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5GshGAhQs1W-2EejgbF-196" parent="U5GshGAhQs1W-2EejgbF-194" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="procent" vertex="1">
+        <mxCell id="U5GshGAhQs1W-2EejgbF-196" parent="U5GshGAhQs1W-2EejgbF-194" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="procent&lt;div&gt;denumire&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -625,7 +625,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5GshGAhQs1W-2EejgbF-216" parent="U5GshGAhQs1W-2EejgbF-214" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="nume" vertex="1">
+        <mxCell id="U5GshGAhQs1W-2EejgbF-216" parent="U5GshGAhQs1W-2EejgbF-214" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="nume&lt;div&gt;prenume&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -662,10 +662,10 @@
         <mxCell id="U5GshGAhQs1W-2EejgbF-241" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nr_loc" vertex="1">
           <mxGeometry height="30" width="110" x="830" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="U5GshGAhQs1W-2EejgbF-242" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clasa" vertex="1">
-          <mxGeometry height="30" width="60" x="940" y="260" as="geometry" />
+        <mxCell id="U5GshGAhQs1W-2EejgbF-242" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clasa&lt;div&gt;nr_vagon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="940" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="U5GshGAhQs1W-2EejgbF-243" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nume&lt;div&gt;&lt;br&gt;&lt;div&gt;email&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="U5GshGAhQs1W-2EejgbF-243" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nume&lt;div&gt;prenume&lt;br&gt;&lt;div&gt;email&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="60" x="310" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="U5GshGAhQs1W-2EejgbF-244" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ordine&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ora_plecare&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ora_sosire&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;distanta&lt;/div&gt;" vertex="1">
