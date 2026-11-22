@@ -1,6 +1,6 @@
 
 
-USE mersul_trenurilor;
+USE aplicatie_trenuri;
 
 SET FOREIGN_KEY_CHECKS = 0;
 
